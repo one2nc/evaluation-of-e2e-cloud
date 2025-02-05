@@ -24,6 +24,3 @@ Evaluate the technical feasibility, performance, security, and cost-effectivenes
 4. **Security Assessment**: A comprehensive review of E2E Cloud's security features and compliance posture in relation to our non-production workload requirements.
 5. **Performance Benchmark Report**: A report detailing the performance of non-production workloads on E2E Cloud, ensuring they meet or exceed our current standards on AWS.
 6. **Implementation Roadmap**: A phased plan for integrating E2E Cloud into our development lifecycle, complete with timelines, required resources, and key milestones.
-
-## Evaluation 
-https://github.com/ReLambda-E2E/infra/blob/main/Evaluation.md
